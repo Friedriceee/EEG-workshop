@@ -1,0 +1,12 @@
+.venv/
+data/
+cache/
+save/
+*.npz
+*.log
+__pycache__/
+.claude/
+.DS_Store
+neuralbench_config.json
+.venv*/
+*.pdf

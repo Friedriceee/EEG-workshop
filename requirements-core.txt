@@ -1,0 +1,9 @@
+braindecode==1.8.1
+mne==1.13.2
+moabb==1.7.2
+neuralbench==0.4.0
+numpy==2.5.4
+pyriemann==0.12
+scikit-learn==1.9.1
+scipy==1.18.1
+torch==2.14.1
